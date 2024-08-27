@@ -1,0 +1,7 @@
+name: ServerTransfers
+version: 1.0
+main: com.authorinthedark.servertransfers.TransferPlugin
+commands:
+  transfer:
+    description: Send yourself to another world
+    usage: /transfer <server name>

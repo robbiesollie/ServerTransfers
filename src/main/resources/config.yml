@@ -1,0 +1,7 @@
+servers:
+  example:
+    ip: "www.example.org"
+    port: 80
+  example2:
+    ip: "www.google.com"
+    port: 8080

@@ -1,5 +1,6 @@
 name: ServerTransfers
 version: 1.0
+api-version: 1.21
 main: com.authorinthedark.servertransfers.TransferPlugin
 commands:
   transfer:

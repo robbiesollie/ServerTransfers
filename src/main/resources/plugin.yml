@@ -1,0 +1,8 @@
+name: ServerTransfers
+version: 1.1
+api-version: 1.21
+main: com.robbiesollie.servertransfers.TransferPlugin
+commands:
+  transfer:
+    description: Send yourself to another world
+    usage: /transfer <server name>
